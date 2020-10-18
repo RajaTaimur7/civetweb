@@ -92,7 +92,7 @@ Quick start documentation
 Overview
 --------
 
-CivetWeb keeps the balance between functionality and
+CivetWeb keeps the balance between functionality jhghkjgjgmn
 simplicity by a carefully selected list of features:
 
 - Liberal, commercial-friendly, permissive,
